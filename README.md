@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @ajaypatel0905
-- 👀 I’m interested in trying and exploring new things
-- 🌱 I’m currently learning web development 
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me --> you can mail me on ajaypatel39995@gmail.com
 
 <!---

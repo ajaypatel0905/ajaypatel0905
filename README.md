@@ -1,6 +1,6 @@
 # Hi, I'm Ajay 👋
 
-Software engineer at [Equal](https://equal.in) (identity verification, Hyderabad) · IIT Hyderabad '24
+Software engineer at [Equal](https://equal.in) (Hyderabad) · IIT Hyderabad '24
 
 I build backend systems and AI workflows — Java/Spring Boot microservices on one side, Python/LLM pipelines on the other, all of it on AWS.
 

@@ -17,6 +17,7 @@ Most of my work lives in Equal's private repos, where I've built and shipped:
 
 | Project | What it is |
 |---|---|
+| [ArchCritic](https://archcritic.vercel.app) · [repo](https://github.com/ajaypatel0905/archcritic) | **Live** — AI system design interview coach. Staged interviews with an architecture whiteboard the AI judge actually reads, rubric grading grounded in real engineering blogs (with citations), and a follow-up interviewer that probes your weakest areas. Hybrid retrieval (pgvector + FTS + RRF) with cross-encoder reranking, local BGE embeddings, eval-gated (recall@5 0.87, judge golden set). FastAPI · Next.js · Supabase · HF Spaces |
 | [magicthon](https://github.com/ajaypatel0905/magicthon) | Vision-LLM meme maker built in a day for the Magicthon hackathon (Next.js, Supabase) — advanced to the interview round |
 | [neustack-ecommerce](https://github.com/ajaypatel0905/neustack-ecommerce) | E-commerce backend with an nth-order reward-discount system — TypeScript/Express, layered architecture, fully tested |
 | [redrob-signalrank](https://github.com/ajaypatel0905/redrob-signalrank) | Hybrid candidate ranker that reads profiles instead of matching keywords (Python) |

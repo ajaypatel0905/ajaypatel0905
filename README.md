@@ -29,4 +29,4 @@ Most of my work lives in Equal's private repos, where I've built and shipped:
 
 ## Reach me
 
-[LinkedIn](https://www.linkedin.com/in/ajaypatel0905) · ajaypatel39995@gmail.com
+[Portfolio](https://ajaypatel0905.vercel.app) · [LinkedIn](https://www.linkedin.com/in/ajaypatel0905) · ajaypatel39995@gmail.com
